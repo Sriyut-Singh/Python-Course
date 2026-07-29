@@ -17,7 +17,6 @@ This is the very first stop on the journey — the core syntax and building bloc
 | `lec-07-debugging.ipynb` | Using Python's built-in `pdb` debugger — setting breakpoints with `pdb.set_trace()` and stepping through code (factorial example). |
 | `lec-08-program-to-software.ipynb` | A quick note on turning a `.py` script into a standalone executable using `pyinstaller`. |
 | `lec-09-print-pattern-task.ipynb` | Many different ways to print the word "python" diagonally/vertically — looping over string indices, using `time.sleep()` for a typewriter effect, and printing numeric triangle patterns. |
-| `lec-10-quick-math-practice.ipynb` | Tiny warm-up arithmetic operations in a fresh notebook cell. |
 
 ## 🧠 Key Concepts Practiced
 
