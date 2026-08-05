@@ -27,7 +27,6 @@ The two libraries that make Python genuinely useful for AI/ML and data analysis:
 pip install numpy pandas jupyter
 jupyter notebook
 ```
-> Note: `lec-02-numpy-and-pandas.ipynb` originally reads a CSV from a local path (`S:/num py files/ex1.csv`) — you'll need to point it to your own CSV file if you want to re-run that cell.
 
 ---
 *Part of the [Python for AI/ML](../README.md) learning series by Sriyut Singh.*
