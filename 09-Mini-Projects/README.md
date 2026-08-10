@@ -17,7 +17,7 @@ This is where everything from the earlier folders comes together — small, fun,
 | `chess-quick-test.ipynb` | A short test/scratch notebook for trying out chess-related code. |
 | `bank-game.ipynb` | A simple simulated banking system (deposit/withdraw/balance style program). |
 | `atm-system.ipynb` | An ATM simulation — username/PIN check, balance, withdrawal logic. |
-| `voice-assistant.ipynb` | A basic voice-assistant style program combining speech/command handling logic. |It is like Jarvis to me.|
+| `voice-assistant.ipynb` | A basic voice-assistant style program combining speech/command handling logic. It is like Jarvis to me.|
 
 ## 🧠 Key Concepts Practiced
 
